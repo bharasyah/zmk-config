@@ -1,0 +1,6 @@
+if SHIELD_SOVIA
+
+config ZMK_KEYBOARD_NAME
+    default "sovia"
+
+endif
